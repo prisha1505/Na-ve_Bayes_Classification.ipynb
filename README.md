@@ -1,1 +1,1 @@
-# Na-ve_Bayes_Classification.ipynb
+# Naive_Bayes_Classification.ipynb
